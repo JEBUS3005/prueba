@@ -11,14 +11,17 @@ package pruebagit;
  */
 public class PruebaGit {
 
-    /**
-     * @param args the command line arguments
-     */
     public static void main(String[] args) {
         // TODO code application logic here
         System.out.println("esto es una prueba xD");
         
         System.out.println("Un momento Rick");
+        System.out.println("MAMONnnn oe oen");
+        System.out.println("hola we se edito o no"
+				+ "???");
+        
+        
+        
     }
     
 }

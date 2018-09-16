@@ -16,7 +16,7 @@ public class PruebaGit {
         System.out.println("esto es una prueba xD");
         
         System.out.println("Un momento Rick");
-        System.out.println("MAMONnnnn");
+        System.out.println("MAMONnnn oe oen");
         System.out.println("hola we se edito o no"
 				+ "???");
         

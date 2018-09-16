@@ -17,8 +17,9 @@ public class PruebaGit {
         
         System.out.println("Un momento Rick");
         System.out.println("MAMONnnn oe oen");
-        System.out.println("hola we se edito o no"
-				+ "???");
+        System.out.println("oe enrique tiene habre"
+				+ 
+				"???");
         
         
         
